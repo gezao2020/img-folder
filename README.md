@@ -1,4 +1,5 @@
 # img-folder
 
 - this is a picture warehouse.
-- this is a chinge.
+- this is a change.
+- this is another change.
